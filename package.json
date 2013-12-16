@@ -1,0 +1,30 @@
+{
+    "name": "mf-auth-api",
+    "version": "0.0.1",
+    "author": "vli",
+    "private": true,
+    "description": "An Authentication API.",
+    "main": "index.js",
+    "engines": {
+        "node": "0.10.x"
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "http://github.com/vli/"
+    },
+    "peerDependencies": {
+        "hapi": "~1.2.0"
+    },
+    "dependencies": {
+        "bcrypt":"*",
+        "travelogue":"*",
+        "passport-local":"*",
+        "passport-google":"*",
+        "passport":"*"
+    },
+    "devDependencies": {
+        "hapi": "~1.2.0",
+        "lab": "0.2.x"
+    },
+    "license": "MIT"
+}

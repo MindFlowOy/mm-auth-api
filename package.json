@@ -10,7 +10,7 @@
     },
     "repository" : {
         "type" : "git",
-        "url" : "http://github.com/vli/"
+        "url" : "https://github.com/MindFlowOy/mm-auth-api.git"
     },
     "peerDependencies": {
         "hapi": "~1.2.0"
@@ -24,7 +24,7 @@
     },
     "devDependencies": {
         "hapi": "~1.2.0",
-        "lab": "0.2.x"
+        "lab": "1.x.x"
     },
     "license": "MIT"
 }

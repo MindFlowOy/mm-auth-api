@@ -16,11 +16,10 @@
         "hapi": "~1.2.0"
     },
     "dependencies": {
-        "bcrypt":"*",
-        "travelogue":"*",
-        "passport-local":"*",
-        "passport-google":"*",
-        "passport":"*"
+        "bcrypt":"~0.7.7",
+        "passport-local":"~0.1.6",
+        "passport-google":"~0.3.0",
+        "passport":"~0.1.17"
     },
     "devDependencies": {
         "hapi": "~1.2.0",
